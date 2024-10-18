@@ -13,6 +13,7 @@ YAS: Yet Another Shop - Microservices
 
 - Eureka Server
   - Eureka Server
+  - Spring Actuator
   - Port 8761
 
 
